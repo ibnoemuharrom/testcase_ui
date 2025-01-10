@@ -1,0 +1,94 @@
+* {
+	font-family: 'Montserrat', sans-serif;;
+}
+
+.main-bg {
+	background-color: #dbdbdb;
+	min-width: 100vh;
+	min-height: 100vh;
+}
+
+.heading {
+	color: #000000;
+	font-weight: bold;
+}
+
+.heading-second {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.text-primary-regular {
+	color: #000000;
+}
+
+.text-primary-regular:hover {
+	color: #000000;
+}
+
+.text-primary-bold {
+	color: #000000;
+	font-weight: bold;
+}
+
+.text-primary-bold:hover {
+	color: #000000;
+	font-weight: bold;
+}
+
+.text-link {
+	color: #4D9E4F;
+}
+
+.text-second-regular {
+	color: #FFFFFF;
+}
+
+.text-second-bold {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.btn-go-primary {
+	background-color: #4D9E4F;
+	border-color: #4D9E4F;
+	color: #000000;
+	font-weight: bold;
+}
+
+.btn-go-primary:hover {
+	background-color: #4D9E4F;
+	border-color: #4D9E4F;
+	color: #000000;
+	font-weight: bold;
+}
+
+.btn-go-second {
+	background-color: #4D9E4F;
+	border-color: #4D9E4F;
+	color: #FFFFFF;
+	width: 100%;
+}
+
+.btn-go-second:hover {
+	background-color: #4D9E4F;
+	border-color: #4D9E4F;
+	color: #FFFFFF;
+	width: 100%;
+}
+
+.btn-login-primary {
+	background-color: #4D9E4F;
+	border-color: #4D9E4F;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 50px;
+}
+
+.btn-login-primary:hover {
+	background-color: #4D9E4F;
+	border-color: #4D9E4F;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 50px;
+}
